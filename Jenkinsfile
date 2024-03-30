@@ -2,3 +2,4 @@
 
 env.component="catalogue"
 nodejs()
+env.schema_dir='schema'
